@@ -1,0 +1,6 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="white"/>
+  <path d="M60 85C60 76.7157 66.7157 70 75 70H181C189.284 70 196 76.7157 196 85V155C196 163.284 189.284 170 181 170H75C66.7157 170 60 163.284 60 155V85Z" fill="#8B5CF6"/>
+  <path d="M65 85L128 130L191 85" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="128" y="215" font-family="Arial, sans-serif" font-weight="bold" font-size="36" fill="black" text-anchor="middle">olomail</text>
+</svg>
